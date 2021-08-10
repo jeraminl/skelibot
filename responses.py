@@ -1,0 +1,5 @@
+bot_response = {
+    
+
+
+}
